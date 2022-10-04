@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @artpat96
 - 👀 I’m interested in field of Data Analysis
-- 🌱 I’m currently learning SQL, Python and visualisation tools (PowerBI, Tabelau)
+- 🌱 I’m currently learning SQL, Python and visualisation tools (PowerBI, Tableau)
 - 📫 You can reach me through an e-mail: artur.pat96@gmail.com
 
 <!---
