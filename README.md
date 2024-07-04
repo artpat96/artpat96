@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @artpat96
 - 👀 I’m interested in field of Data Engineering and Data Analsyis
-- 💥 My projects are focusing on SQL, Python and visualisation tools (PowerBI, Tableau)
-- 🌱 I’m currently learning also Snowflake, Airflow and AWS
+- 💥 My projects are focusing mainly on SQL, Python and visualisation tools
+- 🌱 I’m currently using also technologies such as: AWS, Snowflake, Airflow, Databricks and PySpark
 - 📫 You can reach me through an e-mail: artur.pat96@gmail.com
 
 <!---
